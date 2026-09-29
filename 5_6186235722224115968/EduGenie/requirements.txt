@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+jinja2
+python-dotenv
+google-genai
+pydantic
+transformers
+torch
+pytest
+httpx
